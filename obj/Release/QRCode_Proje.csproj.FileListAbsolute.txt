@@ -1,0 +1,13 @@
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\bin\Release\QRCode_Proje.exe.config
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\bin\Release\QRCode_Proje.exe
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\bin\Release\QRCode_Proje.pdb
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\bin\Release\MessagingToolkit.QRCode.dll
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\obj\Release\QRCode_Proje.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\obj\Release\QRCode_Proje.Cozumle.resources
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\obj\Release\QRCode_Proje.Form1.resources
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\obj\Release\QRCode_Proje.Properties.Resources.resources
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\obj\Release\QRCode_Proje.csproj.GenerateResource.cache
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\obj\Release\QRCode_Proje.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\obj\Release\QRCode_Proje.csproj.CopyComplete
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\obj\Release\QRCode_Proje.exe
+C:\Users\samet\OneDrive\Masaüstü\C#\QRCode_Proje\obj\Release\QRCode_Proje.pdb
